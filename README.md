@@ -10,6 +10,8 @@
 - **VIP Features Unlocking**: Enables VIP features in target apps, such as removing ads and enabling premium functionalities.
 - **Universal Compatibility**: Supports various Android classes and methods through reflection and the Pine hooking framework.
 
+DON'T FORGET TO CHANGE THE CLASS METHOD ACCORDING TO YOUR DUMP RESULTS
+
 ## Improvements in Recent Updates
 
 1. **Code Readability**:
@@ -31,6 +33,7 @@
    - Followed Java and Android coding standards for maintainable and scalable code.
 
 ## Usage
+This project i build with **AndroidIDE**
 
 ### Setting Up the Content Provider
 To use the library, add the following ContentProvider entry in your application's `AndroidManifest.xml`:
